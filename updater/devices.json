@@ -380,4 +380,5 @@
   {  "model": "zeroltexx", "oem": "Samsung", "name": "Galaxy S6 Edge", "lineage_recovery": false },
   {  "model": "zippo", "oem": "Lenovo", "name": "Z6 Pro" },
   {  "model": "zl1", "oem": "LeEco", "name": "Le Pro 3" }
+  
 ]
